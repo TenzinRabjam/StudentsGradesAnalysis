@@ -1,0 +1,11 @@
+C:\Users\trabjam\source\repos\Grades\Grades\bin\Debug\Grades.exe.config
+C:\Users\trabjam\source\repos\Grades\Grades\bin\Debug\Grades.exe
+C:\Users\trabjam\source\repos\Grades\Grades\bin\Debug\Grades.pdb
+C:\Users\trabjam\source\repos\Grades\Grades\obj\Debug\Grades.csprojResolveAssemblyReference.cache
+C:\Users\trabjam\source\repos\Grades\Grades\obj\Debug\Grades.csproj.CoreCompileInputs.cache
+C:\Users\trabjam\source\repos\Grades\Grades\obj\Debug\Grades.exe
+C:\Users\trabjam\source\repos\Grades\Grades\obj\Debug\Grades.pdb
+C:\Users\trabjam\source\repos\Grades\Grades\bin\Debug\Microsoft.Analytics.UnitTest.dll
+C:\Users\trabjam\source\repos\Grades\Grades\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\trabjam\source\repos\Grades\Grades\bin\Debug\Microsoft.Analytics.Interfaces.dll
+C:\Users\trabjam\source\repos\Grades\Grades\obj\Debug\Grades.csproj.CopyComplete
